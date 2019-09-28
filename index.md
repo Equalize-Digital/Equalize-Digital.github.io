@@ -5,3 +5,9 @@
 layout: default
 ---
 website coming soon...
+
+_in the meantime_
+
+follow us on twitter: [@EqualizeDigital](https://twitter.com/EqualizeDigital)
+
+email us: [equalizedigitaldev@gmail.com](mailto:equalizedigitaldev@gmail.com)
